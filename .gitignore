@@ -41,7 +41,6 @@ coverage/
 jspm_packages/
 
 # Ignore lockfiles (optional)
-package-lock.json
 yarn.lock
 
 # Ignore log and reporting files

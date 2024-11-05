@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 const Home = () => {
   return (
     <div className="home">
-      <h2>Welcome to the Employee Management System (Code is changed and website is automatically updated through pipeline)</h2>
+      <h2>Welcome to the Employee Management System (CODE is changed and website is automatically updated through pipeline)</h2>
       <p>Use the navigation above to manage employee records.</p>
 
       <div className='btn'>

@@ -10,7 +10,7 @@ function App() {
     <Router>
       <div className="app">
         <header className="app-header">
-          <h1>/*Employee Management System */</h1>
+          <h1>Employee Management System</h1>
           <nav>
             <ul>
               <li>
